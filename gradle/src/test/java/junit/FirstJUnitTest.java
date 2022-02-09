@@ -1,4 +1,4 @@
-package junit;
+package tests;
 
 
 public class FirstJUnitTest {
