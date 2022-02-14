@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class TestFormTest {
+public class TestFormTests {
 
     @BeforeAll
     static void BeforeAll() {
